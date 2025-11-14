@@ -18,3 +18,9 @@ Both macros return `tokio::io::Result<()>`.
 Thanks to
 <https://users.rust-lang.org/t/equivalent-of-writeln-for-tokio/69002/5>
 for the starting idea.
+
+## License
+
+This work is made available under the "Apache 2.0 or MIT
+License". See the file `LICENSE.txt` in this distribution for
+license terms.
